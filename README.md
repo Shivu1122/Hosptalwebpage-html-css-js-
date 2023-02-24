@@ -1,1 +1,1 @@
-# Hosptalwebpage-html-css-js-
+# Hospitalwebpage-html-css-js-
